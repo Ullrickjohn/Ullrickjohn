@@ -11,13 +11,13 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :telescope: Есть хорошее портфолио!
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :seedling: Завершаю курсы Fructcode.com!
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- :zap: Являюсь студентом на курсе Веб-разработки IT LABS.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/fckyoubtchsh) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ullrickjohn@gmail.com)
 
 ---
 
