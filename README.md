@@ -8,8 +8,7 @@
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы , где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С марта 2023 года  я изучаю веб разработку на курсах учебного центра IT LABS. В настоящий момент мое обучение на курсе в процессе и я нахожусь в поисках работы.
 
 <p align="center">
-uses: Platane/snk@v2
-  with:
+
     # github user name to read the contribution graph from (**required**)
     # using action context var github.repository_owner or specified user
     github_user_name: ${{ github.repository_owner }}
